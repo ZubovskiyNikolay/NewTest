@@ -29,4 +29,6 @@ for(int count=0;count<num;count++)
 
 Console.WriteLine($"\nКоличество символов в строке - {linetext}\nКоличество цифр в строке - {num};\nСумма цифр в строке - {sum};");
 
+// измененение файла на github
+
 
